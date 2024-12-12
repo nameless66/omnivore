@@ -71,3 +71,4 @@ data.json
 *.apk
 
 tsconfig.tsbuildinfo
+self-hosting/docker-compose/docker-compose.yml
